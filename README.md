@@ -1,2 +1,2 @@
-# music_from_text
+# Music from Text !
 Final Programming Techniques project.
